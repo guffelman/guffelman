@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guffelman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guffelman&theme=onedark)
 
 
 

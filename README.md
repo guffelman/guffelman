@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guffelman&label=Profile%20views&color=0e75b6&style=flat" alt="guffelman" /> </p>
 
-- 📝 I regularly write articles on [blog.garrettkeith.com](blog.garrettkeith.com)
+- 📝 I regularly write articles @ [blog.garrettkeith.com](https://blog.garrettkeith.com)
 
 - 📫 How to reach me **garrett@garrettkeith.com**
 
-- 📄 Grab my resume [cdn.garrettkeith.com/resume.pdf](cdn.garrettkeith.com/resume.pdf)
+- 📄 Grab my [resume](https://cdn.garrettkeith.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **garrett@garrettkeith.com**
 
-- 📄 Grab my [resume](https://cdn.garrettkeith.com/resume.pdf)
+- 📄 Grab my [resume](https://cdn.gert.me/Garrett.Uffelman.Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

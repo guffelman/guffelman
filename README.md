@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guffelman&label=Profile%20views&color=0e75b6&style=flat" alt="guffelman" /> </p>
 
-- 📝 I regularly write articles @ [blog.garrettkeith.com](https://blog.garrettkeith.com)
-
 - 📫 How to reach me **garrett@garrettkeith.com**
 
 <h3 align="left">Connect with me:</h3>
